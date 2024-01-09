@@ -174,7 +174,7 @@ plt.show()
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# Assuming predictions_df is your DataFrame containing predictions for each 'Org Code' and 'Month'
+# Assuming predictions_df is the DataFrame containing predictions for each 'Org Code' and 'Month'
 
 # First, convert 'Month' to a categorical type for proper ordering in the plot
 months_order = ['January', 'February', 'March', 'April', 'May', 'June', 
